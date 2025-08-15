@@ -1,4 +1,4 @@
-# Clasificador-Perros-Gatos-CNN-Tranfer_Learning
+# Clasificador-Perros-Gatos-CNN-Transfer_Learning
 
 ## 1. Descripción
 
